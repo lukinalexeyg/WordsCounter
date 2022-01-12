@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>qml/themes/AbstractTheme.qml</file>
+        <file>qml/themes/DarkTheme.qml</file>
+        <file>qml/themes/LightTheme.qml</file>
+        <file>qml/themes/Theme.qml</file>
+        <file>qml/components/BackRectangle.qml</file>
+        <file>qml/components/Button.qml</file>
+        <file>qml/components/Switch.qml</file>
+        <file>qml/Chart.qml</file>
+        <file>qml/components/MessageDialog.qml</file>
+        <file>qml/components/ProgressBar.qml</file>
+    </qresource>
+</RCC>
